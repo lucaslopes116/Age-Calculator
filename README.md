@@ -2,7 +2,7 @@
 
 <!-- ![Design preview for the Age calculator app coding challenge](./design/desktop-preview.jpg) -->
 
-## Welcome! 👋 -->
+## Welcome! 👋
 
 # Age Calculator
 
